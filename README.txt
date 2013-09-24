@@ -7,9 +7,10 @@ Uniquename:girishvk
 Game: Rocketman
 
 Description: Fly a rocket across the screen while avoiding the moving obstacles to the
-exit portal labelled "The End" to win the game.
+exit portal labelled "End Game" to win the game.
 
 Build code: Once file is saved. Go to Rocketman>Rocketman.sln and open file
 on Microsoft Visual C# 2010 Express. Build code and Run to play the game.
 
 Link:
+https://github.com/girishvk/repository-root.git
